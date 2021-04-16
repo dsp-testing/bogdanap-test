@@ -1,7 +1,7 @@
 import moment from 'moment';
 
 /**
- * Gets the Slug of an object from it's ID
+ * Gets the Slug of an object from it's ID.
  * @param {Object[]} arr - Array of Objects
  * @param {String} id - Mongo ID
  * @returns {String}
