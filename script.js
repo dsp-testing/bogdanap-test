@@ -1,2 +1,5 @@
-// Nothing to see here!
-console.log("Hi!");
+// comment
+function endsWith(x, y) {
+  console.log("Hi");
+  return x.lastIndexOf(y) === x.length - y.length;
+}
